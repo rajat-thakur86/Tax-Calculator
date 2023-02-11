@@ -1,4 +1,4 @@
-# Tax-Calculator 🧾
+# Tax Calculator 🧾
 <p></p>
 
 ## Output:
