@@ -1,2 +1,2 @@
 # Tax-Calculator
-Tax Calculator 🧾 | Java
+🧾 Tax Calculator | Java
